@@ -1,1 +1,0 @@
-# my_daily_tracker
